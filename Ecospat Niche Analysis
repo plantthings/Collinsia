@@ -1,0 +1,8 @@
+#Download 19 bioclim variables version 2 from worldclim.org (approximately 2 hours)
+#Download net primary productivity, elevation, soil moisture, soil pH, soil carbon, and evapotransporation from Atlas of the Biosphere
+
+#Use ESRI ArcGIS to:
+  #make sure all rasters have same resolution (environments)
+  #are the same size (aka extent; environments)
+  #converted to .ASC (ArcGIS conversion tools)
+  #saved in the same place
